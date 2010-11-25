@@ -1,0 +1,27 @@
+*.py[cod]
+*.c
+*.egg
+*.egg-info
+*.so
+*.dll
+
+# Packages
+*.egg-info
+setup.cfg
+dist
+build
+eggs
+parts
+bin
+develop-eggs
+.installed.cfg
+
+# IDE
+.idea
+
+# Installer logs
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
