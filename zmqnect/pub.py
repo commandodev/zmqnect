@@ -1,4 +1,4 @@
-from freenect import runloop, depth_cb_np, rgb_cb_np
+from freenect import runloop
 from zmqnect import ADDR, context
 import zmq
 
